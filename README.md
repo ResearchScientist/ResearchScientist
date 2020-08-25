@@ -1,8 +1,7 @@
-### Hi there 👋
+# Ruben A. Sanchez
+<blockquote>Cognitive Neuroscience Researcher</blockquote>
 
-<blockquote>Cognitive Neuroscience</blockquote>
-
-<h1>Social</h1>
+## Social Media
 
 * [Twitter](https://twitter.com/ruben_a_sanchez)
 
