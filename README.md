@@ -4,11 +4,19 @@ I'm a cognitive neuroscientist interested in researching the perception of sound
 
 <blockquote>Cognitive Neuroscience Researcher</blockquote>
 
+<hr/>
+
 ## Social Media
 
 * [Twitter](https://twitter.com/ruben_a_sanchez)
 * [Pinterest](https://www.pinterest.com/rubenasanchezneuroscience/)
 * [CodePen](https://codepen.io/rubenasanchez)
+
+<hr/>
+
+## Website
+
+* [rubenasanchez.com](https://rubenasanchez.com)
 
 <hr/>
 
