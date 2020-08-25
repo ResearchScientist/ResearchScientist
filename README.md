@@ -8,8 +8,10 @@ I'm a cognitive neuroscientist interested in researching the perception of sound
 
 * [Twitter](https://twitter.com/ruben_a_sanchez)
 * [Pinterest](https://www.pinterest.com/rubenasanchezneuroscience/)
+* [CodePen](https://codepen.io/rubenasanchez)
 
 <hr/>
+
 <!--
 **ResearchScientist/ResearchScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
