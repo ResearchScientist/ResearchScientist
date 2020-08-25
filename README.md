@@ -1,6 +1,6 @@
 # Welcome
 
-I'm a cognitive neuroscientist interested in researching the perception of sounds as they encode meaning in the context of language.
+I'm a cognitive neuroscientist researching how our brain perceives meaning within sounds in the context of language.
 
 <blockquote>Cognitive Neuroscience Researcher</blockquote>
 
