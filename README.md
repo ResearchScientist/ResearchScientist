@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<blockquote>Cognitive Neuroscience</blockquote>
+
+<h1>Social</h1>
+
+* [Twitter](/https://twitter.com/ruben_a_sanchez)
+
+<hr/>
 <!--
 **ResearchScientist/ResearchScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
