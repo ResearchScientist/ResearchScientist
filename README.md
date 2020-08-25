@@ -1,4 +1,7 @@
-# Ruben A. Sanchez
+# Welcome
+
+I'm a cognitive neuroscientist interested in researching the perception of sounds as they encode meaning in the context of language.
+
 <blockquote>Cognitive Neuroscience Researcher</blockquote>
 
 ## Social Media
