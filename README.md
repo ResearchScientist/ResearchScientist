@@ -4,7 +4,7 @@
 
 <h1>Social</h1>
 
-* [Twitter](/https://twitter.com/ruben_a_sanchez)
+* [Twitter](https://twitter.com/ruben_a_sanchez)
 
 <hr/>
 <!--
