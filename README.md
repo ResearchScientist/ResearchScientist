@@ -7,6 +7,7 @@ I'm a cognitive neuroscientist interested in researching the perception of sound
 ## Social Media
 
 * [Twitter](https://twitter.com/ruben_a_sanchez)
+* [Pinterest](https://www.pinterest.com/rubenasanchezneuroscience/)
 
 <hr/>
 <!--
