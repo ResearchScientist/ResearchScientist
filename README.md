@@ -1,3 +1,5 @@
+![Header](research-scientist-heaader.png)
+
 # Welcome
 
 I'm a cognitive neuroscientist researching how our brain perceives meaning within sounds in the context of language.
