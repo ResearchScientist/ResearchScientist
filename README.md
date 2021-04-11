@@ -2,7 +2,7 @@
 
 # Welcome
 
-<img align="left" width="100" height="150" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-header.png?raw=true">  **I'm a cognitive neuroscientist researching how our brain perceives meaning within sounds in the context of language.**
+<img align="left" width="100" height="150" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-microscope.png?raw=true">  **I'm a cognitive neuroscientist researching how our brain perceives meaning within sounds in the context of language.**
 
 <blockquote>Cognitive Neuroscience Researcher</blockquote>
 
