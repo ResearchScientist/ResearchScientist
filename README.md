@@ -1,4 +1,4 @@
-![Header](https://github.com/ResearchScientist/ResearchScientist/research-scientist-header.png)
+![Header](https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-header.png?raw=true)
 
 # Welcome
 
