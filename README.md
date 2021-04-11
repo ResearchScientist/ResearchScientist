@@ -4,7 +4,7 @@
 
 <img align="left" width="50" height="100" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-microscope.png?raw=true">  **I'm a cognitive neuroscientist researching how our brain perceives meaning within sounds in the context of language.**
 
-<blockquote>Cognitive Neuroscience Researcher</blockquote>
+<blockquote>Specifically I'm interested in the neuronal architecture and the associated biochemical changes that associate semantics to the perception of novel linguistic sounds.</blockquote>
 
 <hr/>
 
