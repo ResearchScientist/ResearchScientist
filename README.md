@@ -22,22 +22,22 @@
 
 <hr/>
 
-# Technology Stack
+## Technology
 
-**Data Science**
+### Data Science
 
 Python R 
 
 Libraries
 MatplotLib SciKit
 
-**Web Development**
+### Web Development
 
 HTML CSS JavaScript
 
 Vue
 
-**Animation**
+### Animation
 
 Blender greensock three.js
 
