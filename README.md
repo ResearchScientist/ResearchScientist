@@ -22,6 +22,25 @@
 
 <hr/>
 
+# Technology Stack
+
+**Data Science**
+
+Python R 
+
+Libraries
+MatplotLib SciKit
+
+**Web Development**
+
+HTML CSS JavaScript
+
+Vue
+
+**Animation**
+
+Blender greensock three.js
+
 <!--
 **ResearchScientist/ResearchScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
