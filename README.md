@@ -29,7 +29,15 @@
 Python R 
 
 Libraries
-MatplotLib SciKit
+SciKit
+
+### Data Visualization
+
+MatplotLib ggplot
+
+### Web Design
+
+Figma InVision
 
 ### Web Development
 
