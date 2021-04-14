@@ -37,7 +37,7 @@ MatplotLib ggplot
 
 ### Web Design
 
-<i class="fab fa-html5"></i>
+<i class="fab fa-html5">html</i>
 
 Figma InVision
 
