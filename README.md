@@ -26,6 +26,8 @@
 
 ### Data Science
 
+<img src="https://github.com/ResearchScientist/ResearchScientist/blob/master/python-brand.svg?raw=true">
+
 Python R 
 
 Libraries
