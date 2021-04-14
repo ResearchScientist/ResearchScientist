@@ -37,6 +37,8 @@ MatplotLib ggplot
 
 ### Web Design
 
+<i class="fab fa-html5"></i>
+
 Figma InVision
 
 ### Web Development
