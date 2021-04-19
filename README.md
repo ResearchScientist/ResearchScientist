@@ -26,7 +26,7 @@
 
 ### Data Science
 
-Python R 
+<img width="40" height="40" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img width="40" height="40" alt="R" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
 
 Libraries
 SciKit
@@ -38,12 +38,20 @@ MatplotLib ggplot
 ### Web Design
 
 Figma InVision
+<img width="40" height="40" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+
+
+
+<img width="40" height="40" alt="Python" src="">
 
 ### Web Development
 
-HTML CSS JavaScript
+<img width="40" height="40" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> <img width="40" height="40" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> <img width="40" height="40" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 
-Vue
+<img width="40" height="40" alt="Vue" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+
+<img width="40" height="40" alt="Node JS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <img width="40" height="40" alt="WebPack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
+
 
 ### Animation
 
