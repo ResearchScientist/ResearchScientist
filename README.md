@@ -18,15 +18,17 @@
 
 <hr/>
 
-## Website
+# Digital Ether
+
+**A few places I frequent online.**
+
+<blockquote>You can find samples of my code, some of my illustrations, and a post or two.</blockquote>
 
 * [rubenasanchez.com](https://rubenasanchez.com)
+* [CodePen](https://codepen.io/rubenasanchez)
+* [Medium](https://medium.com/rubenasanchez)
 
 <hr/>
-
-## Technology
-
-* [CodePen](https://codepen.io/rubenasanchez)
 
 # Data Analysis
 
@@ -38,19 +40,12 @@
 
 <hr/>
 
-# Web Design
+# Technologies
 
 <img width="40" height="40" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 
-# Web Development
-
-**Science Communication**
-
 <img width="40" height="40" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> <img width="40" height="40" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> <img width="40" height="40" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-
-<img width="40" height="40" alt="Vue" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-
-<img width="40" height="40" alt="Node JS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <img width="40" height="40" alt="WebPack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
+<img width="40" height="40" alt="Vue" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> <img width="40" height="40" alt="Node JS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <img width="40" height="40" alt="WebPack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
 
 <hr/>
 
