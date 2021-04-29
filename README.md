@@ -10,7 +10,9 @@
 
 # Social Media
 
-<img align="left" width="51" height="80" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-microscope.png?raw=true">
+<img align="left" width="50" height="50" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/chat-bubbles.png?raw=true"> **If you want to reach me, you can do so on the bird app.**
+
+<blockquote>I'm most active on Twitter.</blockquote>
 
 * [Twitter](https://twitter.com/ruben_a_sanchez)
 * [Pinterest](https://www.pinterest.com/rubenasanchezneuroscience/)
