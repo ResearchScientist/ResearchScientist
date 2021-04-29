@@ -10,7 +10,7 @@
 
 # Social Media
 
-<img align="left" width="50" height="50" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/chat-bubbles.png?raw=true"> **I'm a friendly type who is very willing to help. So go ahead and reach out to me.**
+<img align="left" width="50" height="100" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-chat-bubbles.png?raw=true"> **I'm a friendly type who is very willing to help. So go ahead and reach out to me.**
 
 <blockquote>I'm most active on the bird app.</blockquote> 
 
