@@ -36,23 +36,14 @@
 
 <blockquote>I get a thrill out of investigating raw data, drawing insights, and communicating the findings to others.</blockquote> 
 
-<img width="40" height="40" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img width="40" height="40" alt="R" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-
 <hr/>
 
 # Technologies
 
-<img width="40" height="40" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-
-<img width="40" height="40" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> <img width="40" height="40" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> <img width="40" height="40" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img width="40" height="40" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <img width="40" height="40" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img width="40" height="40" alt="R" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"> <img width="40" height="40" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> <img width="40" height="40" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> <img width="40" height="40" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img width="40" height="40" alt="Vue" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"> <img width="40" height="40" alt="Node JS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <img width="40" height="40" alt="WebPack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
-
-<hr/>
-
-# Animation
-
 Blender greensock three.js
-
+<hr/>
 
 🌱 Always learning.
 
