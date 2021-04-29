@@ -8,7 +8,9 @@
 
 <hr/>
 
-## Social Media
+# Social Media
+
+<img align="left" width="51" height="80" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-microscope.png?raw=true">
 
 * [Twitter](https://twitter.com/ruben_a_sanchez)
 * [Pinterest](https://www.pinterest.com/rubenasanchezneuroscience/)
