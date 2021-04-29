@@ -28,27 +28,23 @@
 
 * [CodePen](https://codepen.io/rubenasanchez)
 
-### Data Science
+# Data Analysis
+
+<img align="left" width="50" height="50" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/data-analysis.png?raw=true"> **I enjoy data analysis and data visualization.**
+
+<blockquote>I get a thrill out of investigating raw data, drawing insights, and communicating the findings to others.</blockquote> 
 
 <img width="40" height="40" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img width="40" height="40" alt="R" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
 
-Libraries
-SciKit
+<hr/>
 
-### Data Visualization
+# Web Design
 
-MatplotLib ggplot
-
-### Web Design
-
-Figma InVision
 <img width="40" height="40" alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 
+# Web Development
 
-
-<img width="40" height="40" alt="Python" src="">
-
-### Web Development
+**Science Communication**
 
 <img width="40" height="40" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> <img width="40" height="40" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> <img width="40" height="40" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 
@@ -56,10 +52,14 @@ Figma InVision
 
 <img width="40" height="40" alt="Node JS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <img width="40" height="40" alt="WebPack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
 
+<hr/>
 
-### Animation
+# Animation
 
 Blender greensock three.js
+
+
+🌱 Always learning.
 
 <!--
 **ResearchScientist/ResearchScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
