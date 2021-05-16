@@ -2,7 +2,7 @@
 
 # Welcome
 
-<img align="left" width="51" height="80" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-microscope.png?raw=true">  **I'm a cognitive neuroscientist researching how our brain perceives meaning within sounds in the context of language.**
+<img align="left" width="50" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-microscope.png?raw=true"> &nbsp; **I'm a cognitive neuroscientist researching how our brain perceives meaning within sounds in the context of language.**
 
 <blockquote>Specifically I'm interested in the neuronal architecture and the associated biochemical changes that assign semanticity to the perception of novel linguistic sounds.</blockquote>
 
