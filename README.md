@@ -47,6 +47,12 @@ Blender greensock three.js
 
 🌱 Always learning.
 
+```
+Icons in the technologies sections are from devicon.
+Avatar , banner , and PNGs are all illustrated by me.
+Reach out to me if you want me to make an illustration for you.
+```
+
 <!--
 **ResearchScientist/ResearchScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
