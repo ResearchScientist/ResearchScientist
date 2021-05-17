@@ -32,7 +32,7 @@
 
 # Data Analysis
 
-<img align="left" width="50" height="80" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-data-analysis.png?raw=true"> **I enjoy data analysis and data visualization.**
+<img align="left" width="50" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-data-analysis.png?raw=true"> **I enjoy data analysis and data visualization.**
 
 <blockquote>I get a thrill out of investigating raw data, drawing insights, and communicating the findings to others.</blockquote> 
 
