@@ -20,8 +20,7 @@
 
 # Digital Ether
 
-<img align="left" width="50" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-web-cloud.png?raw=true">
-**A few places I frequent online.**
+<img align="left" width="50" height="150" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-web-cloud.png?raw=true"> **A few places I frequent online.**
 
 <blockquote>You can find samples of my code, some of my illustrations, and a post or two.</blockquote>
 
@@ -33,7 +32,7 @@
 
 # Data Analysis
 
-<img align="left" width="50" height="100" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-data-analysis.png?raw=true"> **I enjoy data analysis and data visualization.**
+<img align="left" width="50" height="80" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-data-analysis.png?raw=true"> **I enjoy data analysis and data visualization.**
 
 <blockquote>I get a thrill out of investigating raw data, drawing insights, and communicating the findings to others.</blockquote> 
 
