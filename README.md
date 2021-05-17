@@ -2,7 +2,7 @@
 
 # Welcome
 
-<img align="left" width="50" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-microscope.png?raw=true"> &nbsp; **I'm a cognitive neuroscientist researching how our brain perceives meaning within sounds in the context of language.**
+<img align="left" width="50" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-microscope.png?raw=true"> **I'm a cognitive neuroscientist researching how our brain perceives meaning within sounds in the context of language.**
 
 <blockquote>Specifically I'm interested in the neuronal architecture and the associated biochemical changes that assign semanticity to the perception of novel linguistic sounds.</blockquote>
 
@@ -14,12 +14,13 @@
 
 <blockquote>I'm most active on the bird app.</blockquote> 
 
-[Twitter](https://twitter.com/ruben_a_sanchez)
+* [Twitter](https://twitter.com/ruben_a_sanchez)
 
 <hr/>
 
 # Digital Ether
 
+<img align="left" width="50" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-web-cloud.png?raw=true">
 **A few places I frequent online.**
 
 <blockquote>You can find samples of my code, some of my illustrations, and a post or two.</blockquote>
