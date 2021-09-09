@@ -54,7 +54,7 @@ Reach out to me if you want me to make an illustration for you.
 
 <details>
   <summary>follow me</summary>
-  [Twitter](https://twitter.com/ruben_a_sanchez)
+  <a href="https://twitter.com/ruben_a_sanchez">twitter</a>
 </details>
 
 <!--
