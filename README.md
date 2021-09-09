@@ -52,6 +52,11 @@ Avatar , banner , and PNGs are all illustrated by me.
 Reach out to me if you want me to make an illustration for you.
 ```
 
+<details>
+  <summary>follow me</summary>
+  [Twitter](https://twitter.com/ruben_a_sanchez)
+</details>
+
 <!--
 **ResearchScientist/ResearchScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
