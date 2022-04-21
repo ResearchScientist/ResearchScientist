@@ -24,7 +24,7 @@
 
 <blockquote>You can find samples of my code, some of my illustrations, and a post or two.</blockquote>
 
-* [rubenasanchez.com](https://rubenasanchez.com)
+<!--* [rubenasanchez.com](https://rubenasanchez.com)-->
 * [CodePen](https://codepen.io/rubenasanchez)
 * [Medium](https://medium.com/rubenasanchez)
 
