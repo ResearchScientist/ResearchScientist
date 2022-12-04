@@ -20,7 +20,7 @@
 
 # Digital Ether
 
-<img align="left" width="50" height="150" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-web-cloud.png?raw=true"> **A few places I frequent online.**
+<img align="left" width="50" height="140" src="https://github.com/ResearchScientist/ResearchScientist/blob/master/research-scientist-ruben-a-sanchez-web-cloud.png?raw=true"> **A few places I frequent online.**
 
 <blockquote>You can find samples of my code, some of my illustrations, and a post or two.</blockquote>
 
